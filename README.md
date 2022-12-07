@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Evalion8/Evalion8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fxhF7xoP8e46kwQPso/giphy.gif"/>
+</div>
+<div id="badges" align="center">
+ <a href="https://twitter.com/evalionceagain">
+    <img src="https://img.shields.io/badge/twitter-pink?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/evalionceagain/?next=%2F">
+    <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+   <a href="https://web.telegram.org/k/#@Evalionceagain">
+    <img src="https://img.shields.io/badge/telegram-pink?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  </div>
+ 
