@@ -8,8 +8,6 @@
   <a href="https://www.instagram.com/evalionceagain/?next=%2F">
     <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-   <a href="https://web.telegram.org/k/#@Evalionceagain">
-    <img src="https://img.shields.io/badge/telegram-pink?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
+  
   </div>
  
