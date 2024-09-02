@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fxhF7xoP8e46kwQPso/giphy.gif"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-ai-chatgpt-grok-Z3VgQu8hkVeB1bakS9"/>
 </div>
 <div id="badges" align="center">
  <a href="https://twitter.com/evalionceagain">
